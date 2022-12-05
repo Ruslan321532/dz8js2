@@ -1,0 +1,204 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "title": "Мужские Кроссовки Nike Blazer Mid Suede",
+      "gender": "men",
+      "brend": "nike",
+      "category": "street",
+      "price": 12999,
+      "images": "https://sneakersearch.ru/wp-content/uploads/2020/08/CZ4609300-sneaker-search.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Мужские Кроссовки Nike Air Max 270",
+      "gender": "men",
+      "brend": "nike",
+      "category": "runnig",
+      "price": 12999,
+      "images": "https://static.street-beat.ru/upload/resize_cache/iblock/1da/500_500_1/1da5c645ef9826a27087987516fd0f26.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Мужские Кроссовки Nike Blazer Mid Suede",
+      "gender": "men",
+      "brend": "nike",
+      "category": "running",
+      "price": 8499,
+      "images": "https://static.nike.com/a/images/t_PDP_1280_v1/i1-b424357f-3bf4-440a-a1ed-4add6e078ce4/blazer-mid-77-suede-ayakkab%C4%B1-jmFhL6.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Кроссовки Puma X Aka Boku Future Rider",
+      "gender": "men",
+      "brend": "Puma",
+      "category": "training",
+      "price": 8999,
+      "images": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/380169/01/fnd/TUR/w/1000/h/1000/bg/255,255,255.jpg"
+    },
+    {
+      "id": 5,
+      "title": "NМужские Кроссовки Under Armour Curry 8",
+      "gender": "men",
+      "brend": "Under Armour",
+      "category": "training",
+      "price": 15199,
+      "images": "https://avatars.mds.yandex.net/get-mpic/5173149/img_id7168281283708131139.jpeg/5"
+    },
+    {
+      "id": 6,
+      "title": "Мужские Кроссовки Nike Kyrie 7",
+      "gender": "men",
+      "brend": "nike",
+      "category": "street",
+      "price": 11299,
+      "images": "https://i1.adis.ws/i/hibbett/0P092_0201_right9?pecrop=0,300,0,400"
+    },
+    {
+      "id": 7,
+      "title": "Мужские Кроссовки Jordan Air Jordan 11",
+      "gender": "men",
+      "brend": "Jordan air",
+      "category": "street",
+      "price": 10799,
+      "images": "https://images.prom.ua/3713451565_w640_h640_originalnye-muzhskie-krossovki.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Мужские Кроссовки Nike LeBron XVIII",
+      "gender": "men",
+      "brend": "nike",
+      "category": "street",
+      "price": 16499,
+      "images": "https://img-sneaksupincommerce.mncdn.com/Content/Images/Thumbs/0081734_nike-lebron-xviii-cq9283-006.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "Мужские Кроссовки Nike Lebron XVIII Low",
+      "gender": "men",
+      "brend": "nike",
+      "category": "street",
+      "price": 13999,
+      "images": "https://img-sneaksupincommerce.mncdn.com/Content/Images/Thumbs/0080078_nike-lebron-xviii-low-cv7562-300.jpeg"
+    },
+    {
+      "id": 10,
+      "title": "Мужские Кроссовки Nike Blazer Mid Suede",
+      "gender": "men",
+      "brend": "nike",
+      "category": "street",
+      "price": 8499,
+      "images": "https://media.endclothing.com/media/catalog/product/1/2/12-02-2020_nike_blazermid77suede_greenplatinumsail_ci1172-300_mo_1.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Кроссовки Puma X Aka Boku Future Rider",
+      "gender": "men",
+      "brend": "nike",
+      "category": "street",
+      "price": 8999,
+      "images": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/380169/01/fnd/TUR/w/1000/h/1000/bg/255,255,255.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Мужские Кроссовки Nike Kyrie Flytrap IV",
+      "gender": "men",
+      "brend": "nike",
+      "category": "street",
+      "price": 11299,
+      "images": "https://ae01.alicdn.com/kf/H150f4cc59a194761a5b61e337c4e2f22A.jpg"
+    },
+    {
+      "title": "Мужские Кроссовки Nike Blazer Mid Suede",
+      "gender": "men",
+      "brend": "nike",
+      "category": "running",
+      "price": 8299,
+      "images": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_500,h_500/global/389575/01/sv01/fnd/PNA/fmt/png/PUMA-x-LAUREN-LONDON-Slipstream-Lo-Women's-Sneakers",
+      "id": 13
+    }
+  ],
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "bestPassw0rd",
+      "id": 1
+    },
+    {
+      "email": "olivier@mail.com",
+      "password": "bestPassw0rd",
+      "id": 2
+    },
+    {
+      "email": "olivier@gmail.com",
+      "password": "bestPassw0rd",
+      "id": 3
+    },
+    {
+      "email": "olivier@gmail.com",
+      "password": "bestPassw0rd",
+      "id": 4
+    },
+    {
+      "email": "olivier@gmail.com",
+      "password": "bestPassw0rd",
+      "id": 5
+    },
+    {
+      "email": "olivie@gmail.com",
+      "password": "$2a$10$CZZaaJ5DlB0RYsOrdtTAq.CWoEY2glWV/aOMVOe3HbtEkPBglDXfa",
+      "id": 6
+    },
+    {
+      "email": "rusya@gmail.com",
+      "password": "$2a$10$fr/7T41cYXEoUjYbJMYMy.LmnWsJpz1imle2NfntahkZCh.rKG4W6",
+      "login": "rusya",
+      "id": 7
+    },
+    {
+      "email": "rusya@email.com",
+      "password": "$2a$10$Gz1/VoUKOSOxVmXItzjDLuZjVPXBwl7aH72CFQbGWq5nB1G6ZfJz.",
+      "id": 8
+    },
+    {
+      "email": "rusaya@email.com",
+      "password": "$2a$10$Wkj0Z.yhKNzVez1szxw98.x4kBRRGpi1i3o9GCq3GcQx9HSU5LUDC",
+      "login": "rusa",
+      "confirm password": "21706670",
+      "id": 9
+    },
+    {
+      "email": "rusya@gmail.ru",
+      "password": "$2a$10$D87z.ND0YwJx3Mboqj5GAOzZtuz42eOMyDPN9/1tQVdL.diSeqHz2",
+      "id": 10
+    },
+    {
+      "email": "rusyea@gmail.ru",
+      "password": "$2a$10$MgHQC.4CRfz.ucwAwMBW.etC2Gj/evNAUnOWs0jKZ/qZAy2LCBnr2",
+      "id": 11
+    },
+    {
+      "email": "rusyeaad@gmail.ru",
+      "password": "$2a$10$r0phG423lPirvh7skv4TR.ddrRf364rvviK71TwmTvnNvd428aLwO",
+      "id": 12
+    },
+    {
+      "email": "masksarteaad@gmail.ru",
+      "password": "$2a$10$nyFbfnQGLuXn/TzFj.C/6.LfeGycpZ79KPSc4XZZZEr6wG4LZ1xq2",
+      "id": 13
+    },
+    {
+      "email": "rusyaw@email.com",
+      "password": "$2a$10$5GSVodw1DubCIfPsEOzJw.fMhQDnQ65Iek4wQNZMRfnoqm8cz86nG",
+      "login": "rusya",
+      "id": 14
+    },
+    {
+      "email": "ruslanchik@mail.cpm",
+      "password": "$2a$10$/Hq3GosAUt/KNVk6b//DbeNdVM4Nj1i7gt.2e0jWN6awc95QwwvxO",
+      "login": "ruslanchik",
+      "id": 15
+    }
+  ],
+  "login": []
+}

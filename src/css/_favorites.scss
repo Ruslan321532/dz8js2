@@ -1,0 +1,9 @@
+.main__assort-mainContent-favorites{
+  &-off{
+    display: none;
+  }
+  &-on{
+    display: inline-block;
+  }
+  background-color: red;
+}
